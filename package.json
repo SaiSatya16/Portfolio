@@ -36,19 +36,5 @@
     "prettier": "2.8.8",
     "sass": "^1.54.5",
     "sass-loader": "^13.0.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SaiSatya16/Portfolio"
-  },
-  "keywords": [
-    "portfolio",
-    "devfolio"
-  ],
-  "author": "SAI SATYA NARAYANA JONNALAGADDA",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SaiSatya16/Portfolio/issues"
-  },
-  "homepage": "https://github.com/SaiSatya16/Portfolio#readme"
+  }
 }
