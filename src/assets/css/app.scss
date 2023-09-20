@@ -1,0 +1,25 @@
+$default-family: "Open Sans", sans-serif;
+$default-font-size: 14px;
+$primary: #00b7d5;
+
+$vue-js: #4fc08d;
+$bulma: #00d1b2;
+$bootstrap: #7952b3;
+$typescript: #3178c6;
+$java: #007396;
+// TODO: change color to actual groovy and solr colors
+$groovy: #4298b8;
+$solr: #d9411e;
+$hibernate: #59666c;
+$spring: #6db33f;
+$golang: #00add8;
+$kotlin: #0095d5;
+$docker: #2496ed;
+$tensorflow: #ff6f00;
+$pytorch: #ee4c2c;
+$opencv: #5c3ee8;
+$js: #f7df1e;
+$dojo: #f02541;
+
+@import "bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap");
